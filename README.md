@@ -5,8 +5,6 @@
 
 ## Hi, I’m Daria
 
-<img align="center" width="30" style="margin-right: 10px" src="imgs/github.svg">Here you can find projects I implemented while studying at School21 or as part of self-learning.
-
 <hr>
 
 ### 👩🏻‍💻 About Me :
@@ -43,14 +41,12 @@
   <a href="">@mrhyhorn</a>
 </div>
 
-
 <hr>
 
 ### 🛠 Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
