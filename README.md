@@ -5,8 +5,6 @@
 
 ## Hi, I’m Daria
 
-<hr>
-
 ### 👩🏻‍💻 About Me :
 
 - 👩🏻‍🎓 Junior programmer and student at School21/Ecole42 in Moscow campus.
