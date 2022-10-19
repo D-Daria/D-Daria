@@ -15,7 +15,7 @@
 
 - 🎯 Interested in Backend development. My main goal is to deepen my knowledges in Computer Science, programming and solving algorithmic problems
 
-- 🤖 I like beeing up-to-date with new technologies, devices, reading tech articles and always studying new things
+- 🤖 I like being up-to-date with new technologies, devices, reading tech articles and always studying new things
 
 #### 📫 How to reach me :
 
