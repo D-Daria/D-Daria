@@ -7,13 +7,15 @@
 
 ### 👩🏻‍💻 About Me :
 
-- 👩🏻‍🎓 Junior programmer and student at School21/Ecole42 in Moscow campus.
+- 💻 Junior programmer and student at School21/Ecole42 in Moscow campus
 
-- 👀 Currently learning C/C++ as part of School21/Ecole42 curriculum and Java.
+- 🧑🏻‍🎓 Bachelor degree in linguistic as translator/interpreter (French, English, Russian)
 
-- 🎯 Interested in Backend development. My main goal is to deepen my knowledges in Computer Science, programming and solving algorithmic problems.
+- 👀 Currently learning C/C++ as part of School21/Ecole42 curriculum and Java
 
-- 💻 I like beeing up-to-date with new technologist, devices, reading tech articles and always studying new things. 
+- 🎯 Interested in Backend development. My main goal is to deepen my knowledges in Computer Science, programming and solving algorithmic problems
+
+- 🤖 I like beeing up-to-date with new technologies, devices, reading tech articles and always studying new things
 
 #### 📫 How to reach me :
 
@@ -47,7 +49,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<p></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dashka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 D-Dashka/D-Dashka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
