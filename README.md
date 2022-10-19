@@ -7,13 +7,15 @@
 
 ### 👩🏻‍💻 About Me :
 
-- 💻 Studying at School21/Ecole42 in Moscow campus
-
 - 🧑🏻‍🎓 Bachelor degree in linguistic as translator/interpreter (French, English, Russian)
+
+- 💻 Currently studying at School21/Ecole42 in Moscow campus
 
 - 👀 Currently learning C/C++, Java, Spring Boot, REST Service
 
-- 🎯 Interested in Backend development. My main goal is to deepen my knowledges in Computer Science, programming and solving algorithmic problems
+- ⚡️ Interested in Backend development
+
+- 🎯 My main goal is to deepen my knowledges in Computer Science, programming and solving algorithmic problems
 
 - 🤖 I like being up-to-date with new technologies, devices, reading tech articles and always studying new things
 
