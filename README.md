@@ -5,6 +5,8 @@
 
 ## Hi, I’m Daria
 
+<img align="center" width="30" style="margin-right: 10px" src="imgs/github.svg">Here you can find projects I implemented while studying at School21 or as part of self-learning.
+
 <hr>
 
 ### 👩🏻‍💻 About Me :
@@ -16,8 +18,6 @@
 - 🎯 Interested in Backend development. My main goal is to deeepen my knowledges in Computer Science, programming and solving algorithmic problems.
 
 - 💻 I like beeing up-to-date with new technologist, devices, reading tech articles and always studying new things. 
-
-- <img src="imgs/github.svg">Here you can find projects I implemented while studying at School21 or as part of self-learning.
 
 #### 📫 How to reach me :
 
@@ -50,7 +50,11 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+
 <!---
 D-Dashka/D-Dashka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
