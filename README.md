@@ -11,7 +11,7 @@
 
 - 👀 Currently learning C/C++ as part of School21/Ecole42 curriculum and Java.
 
-- 🎯 Interested in Backend development. My main goal is to deeepen my knowledges in Computer Science, programming and solving algorithmic problems.
+- 🎯 Interested in Backend development. My main goal is to deepen my knowledges in Computer Science, programming and solving algorithmic problems.
 
 - 💻 I like beeing up-to-date with new technologist, devices, reading tech articles and always studying new things. 
 
