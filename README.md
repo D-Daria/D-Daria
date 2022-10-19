@@ -37,7 +37,7 @@
 
 <div>
  <span>At School21 via slack</span>
- <img align="top" src="imgs/slack-new-25.svg"> 
+ <img align="top" wodth="25" src="imgs/slack-new-25.svg"> 
   <a href="">@mrhyhorn</a>
 </div>
 
