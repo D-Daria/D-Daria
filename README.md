@@ -24,8 +24,8 @@ Here you can find projects I implemented while studying at School21 or as part o
 <!--- src:https://icons8.com/ ---->
 
 <div>
-  <div style="display: flex; align-items: center; margin-bottom: 5px">
-    <img src="imgs/telegram.svg" width="25" style="padding-right: 5px">
+  <div style="display: flex !important; align-items: center; margin-bottom: 5px">
+    <img src="imgs/telegram-app.svg" width="25" style="padding-right: 5px">
     <a href="https://t.me/dasha_dda" style="text-decoration: none">
     @dasha_dda
     </a>
