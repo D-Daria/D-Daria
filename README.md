@@ -17,31 +17,32 @@
 
 - 💻 I like beeing up-to-date with new technologist, devices, reading tech articles and always studying new things. 
 
-Here you can find projects I implemented while studying at School21 or as part of self-learning.
+- <img src="imgs/github.svg">Here you can find projects I implemented while studying at School21 or as part of self-learning.
 
 #### 📫 How to reach me :
 
 <!--- src:https://icons8.com/ ---->
 
-<div>
-  <div style="display: flex; align-items: center; margin-bottom: 5px">
-    <img src="imgs/telegram.svg" width="25" style="padding-right: 5px">
-    <a href="https://t.me/dasha_dda" style="text-decoration: none">
-    @dasha_dda
-    </a>
-  </div>
-  <div style="display: flex; align-items: center; margin-bottom: 5px">
-    <img src="imgs/mail.svg" width="25" style="padding-right: 5px">
-    <a href="mailto:d.dolgova03@gmail.com" style="text-decoration: none">
-    d.dolgova03@gmail.com
-    </a>
-  </div>
-  At school 21 via slack
-  <div style="display: flex; align-items: center; margin-bottom: 5px">
-    <img src="imgs/slack-new.svg" width="20" style="padding-right: 5px">
-    <span> @mrhyhorn </span>
-  </div>
+<div style="margin-bottom: 5px">
+ <img align="top" src="imgs/telegram-app.svg"> 
+  <a href="https://t.me/dasha_dda">@dasha_dda</a>
 </div>
+
+<p></p>
+
+<div style="display: flex; align-items: center; margin-bottom: 5px">
+ <img align="top" src="imgs/mail-25.svg"> 
+  <a href="mailto:d.dolgova03@gmail.com">d.dolgova03@gmail.com</a>
+</div>
+
+<p></p>
+
+<div>
+ <span>At School21 via slack</span>
+ <img align="top" src="imgs/slack-new-25.svg"> 
+  <a href="">@mrhyhorn</a>
+</div>
+
 
 <hr>
 
