@@ -7,9 +7,9 @@
 
 ### 👩🏻‍💻 About Me :
 
-- 🧑🏻‍🎓 Bachelor degree in linguistic as translator/interpreter (French, English, Russian)
-
 - 💻 Currently studying at School21/Ecole42 in Moscow campus
+
+- 🧑🏻‍🎓 Bachelor degree in linguistic as translator/interpreter (French, English, Russian)
 
 - 👀 Currently learning C/C++, Java, Spring Boot, REST Service
 
