@@ -11,7 +11,7 @@
 
 - 🧑🏻‍🎓 Bachelor degree in linguistic as translator/interpreter (French, English, Russian)
 
-- 👀 Currently learning Go, C/C++, SQL
+- 👀 Currently learning Go, C/C++
 
 - 📖 Little experience with Java, Spring Boot, REST Service
 
@@ -40,7 +40,7 @@
 <p></p>
 
 <div>
- <span>At School21 via slack</span>
+ <span>At School21/Ecole42 via slack</span>
  <img align="top" wodth="25" src="imgs/slack-new-25.svg"> 
   <a href="">@mrhyhorn</a>
 </div>
