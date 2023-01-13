@@ -60,7 +60,7 @@
 
 <p></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dashka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D-Dashka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 D-Dashka/D-Dashka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
