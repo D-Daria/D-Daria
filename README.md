@@ -1,6 +1,6 @@
 <div id="header" align="center">
  <!--- src:https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif ---->
-<img src="https://github.com/D-Daria/imgs/coding_in_progress.gif" width="300">
+<img src="https://github.com/D-Daria/D-Daria/blob/main/imgs/coding_in_progress.gif" width="300">
 </div>
 
 ## Hi, I’m Daria
