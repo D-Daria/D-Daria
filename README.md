@@ -27,7 +27,7 @@
 
 <div style="margin-bottom: 5px">
  <img align="top" src="imgs/telegram-app.svg"> 
-  <a href="https://t.me/dasha_dda">@dasha_dda</a>
+  <a href="https://t.me/d_dolgova">@d_dolgova</a>
 </div>
 
 <p></p>
@@ -41,7 +41,7 @@
 
 <div>
  <span>At School21/Ecole42 via slack</span>
- <img align="top" wodth="25" src="imgs/slack-new-25.svg"> 
+ <img align="top" width="25" src="imgs/slack-new-25.svg"> 
   <a href="">@mrhyhorn</a>
 </div>
 
