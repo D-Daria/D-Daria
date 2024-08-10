@@ -7,15 +7,13 @@
 
 ### 👩🏻‍💻 About Me :
 
-- 💻 Currently studying at School21/Ecole42 in Moscow campus
+- 💻 School21 Alumni
 
 - 🧑🏻‍🎓 Bachelor degree in linguistic as translator/interpreter (French, English, Russian)
 
-- 👀 Currently learning Go, C/C++
+- 📖 Working with Java, Kotlin, Spring Boot
 
-- 📖 Little experience with Java, Spring Boot, REST Service
-
-- ⚡️ Interested in Go Backend development
+- ⚡️ Interested in Backend development
 
 - 🎯 My main goal is to deepen my knowledges in Computer Science, programming and solving algorithmic problems
 
@@ -50,12 +48,11 @@
 ### 🛠 Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPLUSPLUS" alt="CPLUSPLUS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
 
 <p></p>
