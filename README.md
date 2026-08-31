@@ -53,10 +53,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
 
-<p></p>
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=D-Daria&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 D-Dashka/D-Dashka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
